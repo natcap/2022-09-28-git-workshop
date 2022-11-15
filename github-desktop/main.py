@@ -1,4 +1,5 @@
 import helloworld
 
-if __name__ == 'main':
-    helloworld.greet()
+
+if __name__ == '__main__':
+    helloworld.print_helloworld() #say hello, world!
