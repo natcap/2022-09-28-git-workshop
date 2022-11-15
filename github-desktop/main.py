@@ -1,3 +1,4 @@
 import helloworld
 
-helloworld.greet()
+if __name__ == 'main':
+    helloworld.greet()
